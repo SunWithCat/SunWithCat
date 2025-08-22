@@ -17,34 +17,9 @@
 
 ### 🔧 我的技术栈
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://flutter.dev/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="48" height="48" />
-      </a>
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-      <a href="https://dart.dev/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="48" height="48" />
-      </a>
-      <br>Dart
-    </td>
-    <td align="center" width="96">
-      <a href="https://kotlinlang.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="48" height="48" />
-      </a>
-      <br>Kotlin
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.android.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="48" height="48" />
-      </a>
-      <br>Android
-    </td>
-  </tr>
-</table>
+- Flutter
+- Kotlin
+- Vue 3
 
 ---
 

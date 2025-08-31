@@ -1,36 +1,31 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MishManners/MishManners/master/profile-gifs/flutter-dev-wave.gif" width="100"/>
-</div>
+# 👋 Hey, I'm SunWithCat  
 
-### 👋 你好，我是 SunWithCat
-
-我正全心投入到 Flutter 的世界中！
+💻 Flutter 爱好者 | Kotlin 探索者 | 前端玩家  
 
 ---
 
-### 🧑‍💻 关于我
-
-- 🚀 主要技术方向是 **Flutter** 跨平台应用开发，熟悉 Dart 语言。
-- 💚 对 **Kotlin** 和原生安卓开发也抱有浓厚的兴趣，并正在积极学习。
-
----
-
-### 🔧 我的技术栈
-
-- Flutter
-- Kotlin
-- Vue 3
+### 🚀 About Me  
+- 🛠️ 专注 **Flutter** 跨平台开发，代码就是我的猫薄荷  
+- 🐾 正在驯服 **Kotlin** 和原生安卓世界  
+- 🌐 会点 **Vue 3**，喜欢折腾前端  
 
 ---
 
+### 🔧 Tech Stack  
+🧩 Flutter · Kotlin · Dart · Vue 3  
 
-### 📊 GitHub 统计
+---
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SunWithCat&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunWithCat&layout=compact&theme=radical&hide_border=true&langs_count=6" />
-  </a>
-</div>
+### 📈 GitHub Stats  
+![SunWithCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunWithCat&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunWithCat&layout=compact&theme=tokyonight)  
+
+---
+
+### 👀 Visitors  
+![Visitor Count](https://komarev.com/ghpvc/?username=SunWithCat&color=blueviolet)
+
+---
+
+> ☕ 写代码时的快乐来源：猫咪、音乐，还有一杯热咖啡。

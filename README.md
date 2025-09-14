@@ -1,31 +1,27 @@
-# 👋 Hey, I'm SunWithCat  
+#👋 Ciallo～(∠・ω< )⌒★
 
-💻 Flutter 爱好者 | Kotlin 探索者 | 前端玩家  
+### About Me
 
----
-
-### 🚀 About Me  
-- 🛠️ 专注 **Flutter** 跨平台开发，代码就是我的猫薄荷  
-- 🐾 正在驯服 **Kotlin** 和原生安卓世界  
-- 🌐 会点 **Vue 3**，喜欢折腾前端  
+- I'm a university student passionate about mobile development.
+- Currently diving deep into **Flutter** for cross-platform apps and **Kotlin** for native Android development.
 
 ---
 
-### 🔧 Tech Stack  
-🧩 Flutter · Kotlin · Dart · Vue 3  
+### My Tech Stack
+
+- Flutter
+- Dart
+- Kotlin
 
 ---
 
-### 📈 GitHub Stats  
-![SunWithCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunWithCat&show_icons=true&theme=tokyonight)  
+### My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunWithCat&layout=compact&theme=tokyonight)  
-
----
-
-### 👀 Visitors  
-![Visitor Count](https://komarev.com/ghpvc/?username=SunWithCat&color=blueviolet)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SunWithCat&show_icons=true&locale=en&theme=radical" alt="SunWithCat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunWithCat&layout=compact&theme=radical" alt="SunWithCat" />
+</p>
 
 ---
 
-> ☕ 写代码时的快乐来源：猫咪、音乐，还有一杯热咖啡。
+

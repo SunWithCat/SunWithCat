@@ -15,10 +15,12 @@
 ## 🌸 About Me
 
 ```kotlin
-object SunWithCat : Developer() {
-    val name = "Noireuu"
-    val location = "China 🇨🇳"
-    val role = "Mobile Developer"
+/**
+ * 眩しさだけは、忘れなかった。
+ * (唯有那份眩目，未曾忘却。)
+ *                        ——《Summer Pockets》
+ */
+object SunWithCat : Developer(), YuzuSoftFan, KeyFan {
     
     val languages = listOf("Kotlin", "Dart", "TypeScript", "C++")
     val frameworks = listOf("Flutter", "Jetpack Compose", "Vue.js")
@@ -26,11 +28,19 @@ object SunWithCat : Developer() {
     val interests = listOf(
         "📱 Mobile Development",
         "🎨 UI/UX Design", 
-        "🐱 Cats & Anime",
-        "🎮 Games"
+        "🐱 猫猫！猫猫！",
+        "🎮 Galgame & Anime",
+        "🌴 在代码里寻找无尽的夏日"
     )
     
-    fun greeting() = "Ciallo～(∠・ω< )⌒★"
+    val favorites = mapOf(
+        "Key社" to "Summer Pockets 🌊",
+        "柚子社" to "千恋万花 🌸"
+    )
+    
+    override fun greet() = "Ciallo～(∠・ω< )⌒★"
+    
+    fun currentSeason() = "🌻 Endless Summer"
 }
 ```
 
@@ -57,74 +67,25 @@ object SunWithCat : Developer() {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 📊 GitHub Stats
+## 🎮 Fun Facts
 
-<!-- GitHub 统计卡片 -->
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SunWithCat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=FFFFFF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunWithCat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF" />
-</p>
-
-<!-- GitHub 连续贡献 -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SunWithCat&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" />
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 🌟 Featured Projects
-
-<a href="https://github.com/SunWithCat/github-client">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunWithCat&repo=github-client&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/SunWithCat/NekoChat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SunWithCat&repo=NekoChat&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=FFFFFF" />
-</a>
+```text
+🎯 正在攻略: Flutter 全平台开发
+🌊 梦想之地: 鸟白岛的夏天
+🐱 猫猫数量: 希望有一只
+💤 睡眠时间: 404 Not Found
+🎵 BGM: Alka / 鈴木このみ
+```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🐍 Contribution Graph
-
-<!-- 贪吃蛇动画 - 需要先设置 GitHub Action -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SunWithCat/SunWithCat/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SunWithCat/SunWithCat/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SunWithCat/SunWithCat/output/github-snake.svg" />
-</picture>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SunWithCat&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF&area=true&hide_border=true" />
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 🎵 Now Listening
-
-<!-- Spotify 正在播放 (需要配置) -->
-<!-- <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=ff6b9d&bar_color_cover=true" /> -->
-
-## 💬 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 🤝 Connect with Me
-
-<p>
-  <a href="https://github.com/SunWithCat">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<!-- 访客计数 -->
-<img src="https://komarev.com/ghpvc/?username=SunWithCat&color=FF6B9D&style=for-the-badge&label=VISITORS" />
-
-<br/><br/>
+<br/>
 
 <!-- 二次元风格的结尾 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
 
 **Thanks for visiting! ✨ Have a nice day~ (｡･ω･｡)ﾉ♡**
+
+*「眩しさだけは、忘れなかった。」*
 
 </div>

@@ -27,7 +27,6 @@ object SunWithCat : Developer(), YuzuSoftFan, KeyFan {
         "📱 Mobile Development",
         "🎨 UI/UX Design",
         "🎮 Galgame & Anime",
-        "🌴 在代码里寻找无尽的夏日"
     )
     
     val favorites = mapOf(
@@ -46,8 +45,8 @@ object SunWithCat : Developer(), YuzuSoftFan, KeyFan {
 ## 🎮 Fun Facts
 
 ```text
-🎯 正在攻略: Flutter 全平台开发
-🌊 梦想之地: 鸟白岛的夏天
+🎯 正在攻略: Flutter 跨平台开发
+🎮 圣地巡礼: 鸟白岛
 💤 睡眠时间: 404 Not Found
 🎵 BGM: Alka / 鈴木このみ
 ```
